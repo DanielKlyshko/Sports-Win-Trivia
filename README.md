@@ -1,6 +1,6 @@
-# Sports Quiz App
+# Sports Win Trivia App
 
-Join the exciting world of sports with our Sports Quiz App! Test your knowledge and see how well you know various sports.
+Join the exciting world of sports with our Sports Win Trivia App! Test your knowledge and see how well you know various sports.
 
 ## Features:
 - 🎮 User-friendly interface
